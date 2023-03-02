@@ -1,4 +1,4 @@
-### Midterm Project 
+### Midterm Project - Erosion, Dilation and Histogram Equalization
 
 需要搞懂 AMBA (Advanced Mirocontroller Bus Architecture)
 
