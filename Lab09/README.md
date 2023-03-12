@@ -1,5 +1,5 @@
 ### Lab09 - food delivery platform
-學習寫 SystemVerilog  
-有點像是軟體 class 的概念   
-這個 lab 對於每個 Operations 的敘述偏多  
-Take 是其中比較麻煩的部分  
+
+We'll create iclab-Eats, a food delivery platform for NYCU students, where everyone is a system controller and follows instructions for food pickup, ordering, and delivery from iclab-Eats.
+
+The most distinctive aspect is that we have designed this circuit using **System Verilog**.
