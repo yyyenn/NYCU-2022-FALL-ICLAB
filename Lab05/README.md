@@ -1,3 +1,9 @@
 ### Lab05 - matrix multiplication
-分成 size 2 4 8 16 的矩陣乘法  
-且規定要使用 SRAM，沒用的話面積一定會超過限制
+
+The computation in a systolic array is performed in a pipelined fashion, with data flowing through the array from one PE to the next. 
+
+Each PE computes a partial result based on the data it receives from its upstream neighbors, stores the result internally, and passes it downstream to the next PE. 
+
+This process continues until the final result is computed by the last PE in the array.
+
+
