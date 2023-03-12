@@ -1,6 +1,6 @@
 ### Lab01 - Hamming code decode
 
-design a hamming code decode processor using **comnbinational circuit**.
+Design a hamming code decode processor by **comnbinational circuit**.
 
 Hamming code is a type of error control coding. 
 
