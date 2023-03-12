@@ -1,4 +1,5 @@
 ### Lab02 - find the shortest path 
-主要是要熟悉 sequential circuit 和 FSM     
-沒有用助教附的 dijkstra's algorithm(比較難用電路實現)  
-改用類似於 Floyd-warshall algorithm 的方法  
+
+Creating a circuit that can identify the shortest possible path requires a thorough understanding of sequential circuits and Finite State Machines (FSM). 
+
+The primary objective is to design a circuit that can accomplish this task. To achieve this, it is necessary to utilize both sequential and combinational circuits in order to implement a shortest path algorithm that bears similarity to the Floyd-Warshall algorithm.
