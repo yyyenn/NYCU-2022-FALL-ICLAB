@@ -1,7 +1,11 @@
 ### Midterm Project - Erosion, Dilation and Histogram Equalization
 
-需要搞懂 AMBA (Advanced Mirocontroller Bus Architecture)
+Design a digital image processing circuit for the pictures stored in DRAM fetched via AXI-4 protocol. Implement Erosion, Dilation, and Histogram equalization.
 
-也就是 DRAM 透過 AXI 4 Handshaking Process 要如何實作
+Need to understand AMBA (Advanced Microcontroller Bus Architecture) and how to implement DRAM through AXI 4 Handshaking Process.
 
-設計總共分成 **DRAM/SRAM/REG** 三層架構
+The design is divided into three layers: **DRAM/SRAM/REG** architecture
+
+
+
+
