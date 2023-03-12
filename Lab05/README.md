@@ -6,4 +6,6 @@ Each PE computes a partial result based on the data it receives from its upstrea
 
 This process continues until the final result is computed by the last PE in the array.
 
+Using serial input/output and control SRAM appropriately can reduce the total cycle effectively.
+
 
