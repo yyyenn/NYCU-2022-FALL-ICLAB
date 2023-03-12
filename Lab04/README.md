@@ -1,4 +1,7 @@
 ### Lab04 - Recurrent Neural Network
-練習用 designware IP 
-然後將 RNN 切成幾個部分用 pipeline 的方式實現  
+
+Design a Recurrent Neural Network using the concept of pipeline and Synopsys DesignWare IP. 
+
+Optimize the design by selecting a suitable size of SRAM, and sharing registers. 
+
 
