@@ -1,3 +1,5 @@
 ### Lab07 - poker Twenty-One
-練習兩個 clock domain 的 circuit，  
-幫助搞懂 crossing clock domain 如何避免訊號 metastable 的情況
+
+Blackjack is a card game where the objective is to have a hand of cards that totals as close to 21 points as possible without exceeding 21 points.
+
+We are dealing with two separate clock domains, and it's important to learn how to prevent metastability issues and design circuits that can handle signals crossing between these domains.
